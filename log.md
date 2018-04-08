@@ -33,3 +33,17 @@
 
 **Link to work:** [Ruby Exercises](https://github.com/Odogwudozilla/ruby-exercises)
 *********************************************************************************
+
+*********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 03: April 08, 2018 (Created a landing page on Github)
+##### (delete me or comment me out)
+
+**Today's Progress**: Just HTML. Cloned the code from another developer.
+
+**Thoughts:** I think I am taking the coding venture too fast and too hot. I need to slow down. The most dangerous knowledge is a little knowledge.
+
+**Link to work:** [Githhub landing page format](https://flexdinesh.github.io/)
+*********************************************************************************
