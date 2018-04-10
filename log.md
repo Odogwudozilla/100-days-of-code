@@ -57,3 +57,15 @@
 
 **Link to work:** [An example success story](https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847) [Ruby Koans](https://rubykoans.com)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 05: April 10, 2018 (Ruby Koans ti takeover)
+#####
+
+**Today's Progress**: Continued learning the Ruby Syntax/Concepts via the Ruby Koans exercises. 
+
+**Thoughts:** The Ruby syntax is becoming clearer. I saw in clear terms how Ruby interpretes strings as arrays meaning you can call each letter in a string as an array.
+
+**Link to work:**  [Ruby Koans](https://rubykoans.com)
+*********************************************************************************
