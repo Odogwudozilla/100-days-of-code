@@ -63,9 +63,21 @@
 ### Day 05: April 10, 2018 (Ruby Koans ti takeover)
 #####
 
-**Today's Progress**: Continued learning the Ruby Syntax/Concepts via the Ruby Koans exercises. 
+**Today's Progress**: Continued learning the Ruby Syntax/Concepts via the Ruby Koans exercises.
 
 **Thoughts:** The Ruby syntax is becoming clearer. I saw in clear terms how Ruby interpretes strings as arrays meaning you can call each letter in a string as an array.
+
+**Link to work:**  [Ruby Koans](https://rubykoans.com)
+*********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 06: April 11, 2018 (Ruby Koans)
+#####
+
+**Today's Progress**: Continued learning the Ruby Syntax/Concepts via the Ruby Koans exercises. 
+
+**Thoughts:** I had a really hard time fully understanding the symbols and the regular expressions. At the end had to coast through them using the hints provided, resolved to make do with the ephemeral understanding of the concepts at the moment.
 
 **Link to work:**  [Ruby Koans](https://rubykoans.com)
 *********************************************************************************
