@@ -93,3 +93,16 @@
 
 **Link to work:**  [Ruby Koans](https://rubykoans.com)
 *********************************************************************************
+
+
+# 100 Days Of Code - Log
+
+### Day 08: April 13, 2018 (Ruby Exercises)
+#####
+
+**Today's Progress**: Completed the find_even.rb portion of the Ruby exercises that requires a method that returns even numbers in an array, and an empty array if none is found.
+
+**Thoughts:** I discovered the power of Ruby Enumerables. They can save you a lot of headache and lines of code. Several lines of useless if/else statements can be compacted in just one line. You just have to find the right function.
+
+**Link to work:**  [Ruby Enumerables](https://ruby-doc.org/core-2.2.0/Enumerable.html)
+*********************************************************************************
