@@ -106,3 +106,15 @@
 
 **Link to work:**  [Ruby Enumerables](https://ruby-doc.org/core-2.2.0/Enumerable.html)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 09: April 15, 2018 (Ruby Exercises)
+#####
+
+**Today's Progress**: Completed the blocks, iteration and sandwich (calling methods as blocks in another method) exercises in the Ruby Koans ensemble.
+
+**Thoughts:** The "Sandwich" methods are not too clear for me. I had to coast through them anyway. Better days ahead.
+
+**Link to work:**  [Ruby Enumerables](https://ruby-doc.org/core-2.2.0/Enumerable.html)
+*********************************************************************************
