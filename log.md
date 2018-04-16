@@ -118,3 +118,15 @@
 
 **Link to work:**  [Ruby Enumerables](https://ruby-doc.org/core-2.2.0/Enumerable.html)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 10: April 16, 2018 (Ruby Exercises)
+#####
+
+**Today's Progress**: Completed the "Scoring project" exercise in the Ruby Koans ensemble.  
+
+**Thoughts:** I still have issues with writing clean compact code. Spent substantial time trying to fit the code in block. Did not succeed. Resorted to a coterie of if/else statements.
+
+**Link to work:**  [Ruby Enumerables](https://ruby-doc.org/core-2.2.0/Enumerable.html)
+*********************************************************************************
