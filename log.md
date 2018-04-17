@@ -116,7 +116,7 @@
 
 **Thoughts:** The "Sandwich" methods are not too clear for me. I had to coast through them anyway. Better days ahead.
 
-**Link to work:**  [Ruby Enumerables](https://ruby-doc.org/core-2.2.0/Enumerable.html)
+**Link to work:**  [Ruby Koans](https://rubykoans.com)
 *********************************************************************************
 
 # 100 Days Of Code - Log
@@ -128,5 +128,17 @@
 
 **Thoughts:** I still have issues with writing clean compact code. Spent substantial time trying to fit the code in block. Did not succeed. Resorted to a coterie of if/else statements.
 
-**Link to work:**  [Ruby Enumerables](https://ruby-doc.org/core-2.2.0/Enumerable.html)
+**Link to work:**  [Ruby Koans](https://rubykoans.com)
+*********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 11: April 17, 2018 (Ruby Exercises)
+#####
+
+**Today's Progress**: Completed more exercises in the Ruby Koans ensemble.  
+
+**Thoughts:** Nil.
+
+**Link to work:**  [Ruby Koans](https://rubykoans.com)
 *********************************************************************************
