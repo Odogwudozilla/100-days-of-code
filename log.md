@@ -142,3 +142,15 @@
 
 **Link to work:**  [Ruby Koans](https://rubykoans.com)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 12: April 18, 2018 (Ruby Exercises)
+#####
+
+**Today's Progress**: Completed just one exercise in the Ruby Koans today. Was bogged down with other activities.  
+
+**Thoughts:** This is one of those days in which you question your reasons for doing what you're doing (mostly transferred aggression from some third-party frustration.
+
+**Link to work:**  [Ruby Koans](https://rubykoans.com)
+*********************************************************************************
