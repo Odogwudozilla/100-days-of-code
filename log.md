@@ -154,3 +154,26 @@
 
 **Link to work:**  [Ruby Koans](https://rubykoans.com)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 13: April 19, 2018 (Ruby Exercises)
+#####
+
+**Today's Progress**: Completed  the Ruby Koans finally.  
+
+**Thoughts:** I will still need to revisit it later to better understand the concepts.
+
+**Link to work:**  [Ruby Koans](https://rubykoans.com)
+*********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 14: April 20, 2018 (Rails Course on Udemy)
+#####
+
+**Today's Progress**: Started the Rails Course on Udemy.  
+
+**Thoughts:** Mbido akwa na-afio aru..
+
+**Link to work:**  [Rails Udemy](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/)
+*********************************************************************************
