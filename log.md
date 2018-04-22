@@ -177,3 +177,15 @@
 
 **Link to work:**  [Rails Udemy](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 15: April 22, 2018 (Rails Course on Udemy)
+#####
+
+**Today's Progress**: Created the preliminary pages of the blog page plus linked it to Githhub for version control.  
+
+**Thoughts:** Somehow the SSH keys authenticated but don't automatically push the code until I input my credentials. I am two days late BTW.
+
+**Link to work:**  [Rails Udemy](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/)
+*********************************************************************************
