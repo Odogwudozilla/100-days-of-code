@@ -189,3 +189,14 @@
 
 **Link to work:**  [Rails Udemy](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 16: April 23, 2018 (Rails Course on Udemy)
+#####
+
+**Today's Progress**: Tried to install Heroku on Rails 5, and met a brickwall on every trick I tried. Google was useless.  
+
+**Thoughts:** This issue with the Heroku installation is about to drive me nuts right now. .
+
+**Link to work:**  [Rails Udemy](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/)
+*********************************************************************************
