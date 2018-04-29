@@ -213,7 +213,7 @@
 *********************************************************************************
 # 100 Days Of Code - Log
 
-### Day 18: April 25, 2018 (Rails Course)
+### Day 18: April 27, 2018 (Rails Course)
 #####
 
 **Today's Progress**: I Got a sneak-peak into the power of rails - the concept of scaffolding behind multi-creation abilities of webapps like this 'tweet'. I may be wrong but if you're very good at this you can create a fully-functional app in days!.
@@ -221,4 +221,15 @@
 **Thoughts:** One day I will be able to create a fully-functional webapp in two days.
 
 **Link to work:**  [Rails Tutorial](http://guides.rubyonrails.org/v3.2.9/getting_started.html#getting-up-and-running-quickly-with-scaffolding)
+*********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 19: April 29, 2018 (Rails Course)
+#####
+
+**Today's Progress**: I Completed the toy app tutorial which taught scaffolding.
+
+**Thoughts:** No thoughts.
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/toy_app#fig-mvc_detailed)
 *********************************************************************************
