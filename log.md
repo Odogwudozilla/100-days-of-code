@@ -233,3 +233,15 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/toy_app#fig-mvc_detailed)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 20: April 30, 2018 (Rails Course)
+#####
+
+**Today's Progress**: Began the sample app rails tutorial.
+
+**Thoughts:** No thoughts.
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/static_pages)
+*********************************************************************************
