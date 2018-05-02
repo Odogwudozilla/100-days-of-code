@@ -245,3 +245,14 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/static_pages)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 21: May 01, 2018 (Rails Course)
+#####
+
+**Today's Progress**: Completed the first part of the sample app rails tutorial.
+
+**Thoughts:** No thoughts.
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/static_pages)
+*********************************************************************************
