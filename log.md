@@ -256,3 +256,14 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/static_pages)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 22: May 03, 2018 (Rails Course)
+#####
+
+**Today's Progress**: Completed the last of the sample app rails tutorial.
+
+**Thoughts:** No thoughts.
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/rails_flavored_ruby)
+*********************************************************************************
