@@ -267,3 +267,14 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/rails_flavored_ruby)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 23: May 04, 2018 (Rails Course)
+#####
+
+**Today's Progress**: Completed the styling section (Chapter 5) of the sample app rails tutorial.
+
+**Thoughts:** A lot of programming has to do with perseverance. It may seem overwhelming but just keep at it.
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/filling_in_the_layout)
+*********************************************************************************
