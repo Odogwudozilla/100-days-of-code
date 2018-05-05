@@ -278,3 +278,14 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/filling_in_the_layout)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 24: May 05, 2018 (Rails Course)
+#####
+
+**Today's Progress**: Still on Modelling Users (Chapter 6) of the sample app rails tutorial.
+
+**Thoughts:** Shit is getting serious!!!.
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/modeling_users)
+*********************************************************************************
