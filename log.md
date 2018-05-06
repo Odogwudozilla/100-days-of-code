@@ -289,3 +289,14 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/modeling_users)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 25: May 06, 2018 (Rails Course)
+#####
+
+**Today's Progress**: Completed the Modelling Users (Chapter 6) of the sample app rails tutorial.
+
+**Thoughts:** Somehow my commit for yesterday did not happen. I still cannot say what I did wrong. I ended up redoing the whole tutorial all over again today.
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/modeling_users)
+*********************************************************************************
