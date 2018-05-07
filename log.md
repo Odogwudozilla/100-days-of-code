@@ -300,3 +300,14 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/modeling_users)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 26: May 07, 2018 (Rails Course)
+#####
+
+**Today's Progress**: Completed the signup section (Chapter 7) of the sample app rails tutorial.
+
+**Thoughts:** The rails modus operandi is gradually taking shape to me. Still a lot to learn though to be able to develop my own app.
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/sign_up)
+*********************************************************************************
