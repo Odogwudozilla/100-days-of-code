@@ -311,3 +311,14 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/sign_up)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 27: May 09, 2018 (Rails Course)
+#####
+
+**Today's Progress**: Completed the login section (Chapter 8) of the sample app rails tutorial.
+
+**Thoughts:** Nothing.
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/basic_login)
+*********************************************************************************
