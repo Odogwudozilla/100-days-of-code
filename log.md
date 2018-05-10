@@ -322,3 +322,14 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/basic_login)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 28: May 10, 2018 (Rails Course)
+#####
+
+**Today's Progress**: Completed the advanced login section (Chapter 9) of the sample app rails tutorial.
+
+**Thoughts:** I beginning to wonder if it is possible for one to be proficient in all the technical jargons and programming involved. It is overwhelming.
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/advanced_login)
+*********************************************************************************
