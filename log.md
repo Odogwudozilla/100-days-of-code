@@ -333,3 +333,14 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/advanced_login)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 29: May 11, 2018 (Rails Course)
+#####
+
+**Today's Progress**: Completed the advanced updating-and-deleting-users section (Chapter 10) of the sample app rails tutorial.
+
+**Thoughts:**
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/updating_and_deleting_users)
+*********************************************************************************
