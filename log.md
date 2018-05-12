@@ -344,3 +344,15 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/updating_and_deleting_users)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 30: May 12, 2018 (Rails Course)
+#####
+
+**Today's Progress**: Completed the advanced account activation section (Chapter 11) of the sample app rails tutorial.
+
+**Thoughts:**
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/account_activation)
+*********************************************************************************
