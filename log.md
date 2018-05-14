@@ -356,3 +356,14 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/account_activation)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 31: May 13, 2018 (Rails Course)
+#####
+
+**Today's Progress**: Completed the password reset section (Chapter 12) of the sample app rails tutorial.
+
+**Thoughts:**
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/password_reset)
+*********************************************************************************
