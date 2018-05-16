@@ -367,3 +367,14 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/password_reset)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 32: May 16, 2018 (Rails Course)
+#####
+
+**Today's Progress**: Completed the user microposts (Chapter 13) of the sample app rails tutorial.
+
+**Thoughts:**
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/user_microposts)
+*********************************************************************************
