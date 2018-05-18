@@ -389,3 +389,14 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/user_microposts)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 34: May 18, 2018 (Rails Course)
+#####
+
+**Today's Progress**: Some more debugging the sample app. For some reason it can longer deploy on Heroku.
+
+**Thoughts:**
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/user_microposts)
+*********************************************************************************
