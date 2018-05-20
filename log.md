@@ -400,3 +400,14 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/book/user_microposts)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 35: May 19, 2018 (Code The City Aberdeen hack-day)
+#####
+
+**Today's Progress**: Attended the Code the City Aberdeen event. The event was about looking at how technology and data can help change our relationship with alcohol, from prevention through to recovery to enable us all to be healthier and happier .
+
+**Thoughts: My team developed the idea to build a machine learning application that will evaluate alcoholic and non-alcoholic cans and bottles and be able to detect whether they go against the known rules as set by the Portman standards organisation**
+
+**Link to work:**  [Code The City](https://www.eventbrite.co.uk/e/codethecity-13-hack-societys-relationship-with-alcohol-tickets-44446841700?utm_source=eb_email&utm_medium=email&utm_campaign=event_reminder&utm_term=eventname)
+*********************************************************************************
