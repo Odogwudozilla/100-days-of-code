@@ -411,3 +411,14 @@
 
 **Link to work:**  [Code The City](https://www.eventbrite.co.uk/e/codethecity-13-hack-societys-relationship-with-alcohol-tickets-44446841700?utm_source=eb_email&utm_medium=email&utm_campaign=event_reminder&utm_term=eventname)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 36: May 21, 2018 (Rails)
+#####
+
+**Today's Progress**: Met with my MSc project team and we tried our hands on some Rails Scaffolding technique.
+
+**Thoughts:**
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/)
+*********************************************************************************
