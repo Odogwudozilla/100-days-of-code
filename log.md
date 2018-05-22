@@ -422,3 +422,14 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 37: May 22, 2018 (Rails)
+#####
+
+**Today's Progress**: I tried various techniques to integrate a ruby inside an HTML index file which I wanted to now push to my GitHub pages page. I later found out that it was an effort in futility and that is technically impossible.
+
+**Thoughts:**
+
+**Link to work:**  [Rails Tutorial](https://www.railstutorial.org/)
+*********************************************************************************
