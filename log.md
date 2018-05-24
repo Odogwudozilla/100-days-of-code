@@ -433,3 +433,25 @@
 
 **Link to work:**  [Rails Tutorial](https://www.railstutorial.org/)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 38: May 23, 2018 (Rails)
+#####
+
+**Today's Progress**: I started a ruby tutorial to build a personal blog page. Completed the basic page setup. The tutorial is a video.
+
+**Thoughts:**
+
+**Link to work:**  [Rails Tutorial: TechMaker TV](https://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
+*********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 39: May 24, 2018 (Rails)
+#####
+
+**Today's Progress**: Did more of the personal blog page.
+
+**Thoughts:**
+
+**Link to work:**  [Rails Tutorial: TechMaker TV](ttps://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
+*********************************************************************************
