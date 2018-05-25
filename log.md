@@ -455,3 +455,14 @@
 
 **Link to work:**  [Rails Tutorial: TechMaker TV](ttps://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 40: May 25, 2018 (Rails)
+#####
+
+**Today's Progress**: Completed part one of the authentication on the portfolio page.
+
+**Thoughts:**
+
+**Link to work:**  [Rails Tutorial: TechMaker TV](ttps://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
+*********************************************************************************
