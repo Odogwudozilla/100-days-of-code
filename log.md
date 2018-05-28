@@ -477,3 +477,14 @@
 
 **Link to work:**  [Rails Tutorial: TechMaker TV](ttps://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 42: May 28, 2018 (Rails)
+#####
+
+**Today's Progress**: Several stylings on the portfolio page.
+
+**Thoughts:**
+
+**Link to work:**  [Rails Tutorial: TechMaker TV](ttps://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
+*********************************************************************************
