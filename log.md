@@ -488,3 +488,14 @@
 
 **Link to work:**  [Rails Tutorial: TechMaker TV](ttps://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 43: May 29, 2018 (Rails)
+#####
+
+**Today's Progress**: Fixes bug on the bootstrap dropdown for the portfolio page.
+
+**Thoughts:**
+
+**Link to work:**  [Rails Tutorial: TechMaker TV](ttps://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
+*********************************************************************************
