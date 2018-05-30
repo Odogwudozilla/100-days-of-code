@@ -453,7 +453,7 @@
 
 **Thoughts:**
 
-**Link to work:**  [Rails Tutorial: TechMaker TV](ttps://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
+**Link to work:**  [Rails Tutorial: TechMaker TV](https://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
 *********************************************************************************
 # 100 Days Of Code - Log
 
@@ -464,7 +464,7 @@
 
 **Thoughts:**
 
-**Link to work:**  [Rails Tutorial: TechMaker TV](ttps://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
+**Link to work:**  [Rails Tutorial: TechMaker TV](https://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
 *********************************************************************************
 # 100 Days Of Code - Log
 
@@ -475,7 +475,7 @@
 
 **Thoughts:**
 
-**Link to work:**  [Rails Tutorial: TechMaker TV](ttps://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
+**Link to work:**  [Rails Tutorial: TechMaker TV](https://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
 *********************************************************************************
 # 100 Days Of Code - Log
 
@@ -486,7 +486,7 @@
 
 **Thoughts:**
 
-**Link to work:**  [Rails Tutorial: TechMaker TV](ttps://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
+**Link to work:**  [Rails Tutorial: TechMaker TV](https://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
 *********************************************************************************
 # 100 Days Of Code - Log
 
@@ -497,5 +497,16 @@
 
 **Thoughts:**
 
-**Link to work:**  [Rails Tutorial: TechMaker TV](ttps://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
+**Link to work:**  [Rails Tutorial: TechMaker TV](https://www.youtube.com/watch?v=svXHXep4qdI&index=2&list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
+*********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 44: May 30, 2018 (Rails)
+#####
+
+**Today's Progress**: Continued to find the bug that is breaking the published attribute of the portfolio page.
+
+**Thoughts: I don't know what the problem is. it has been two days. I think though it has to do with either the gems Devise of Friendly_id**
+
+**Link to work:**  [Rails Tutorial: TechMaker TV](https://odogwudozilla.herokuapp.com/)
 *********************************************************************************
