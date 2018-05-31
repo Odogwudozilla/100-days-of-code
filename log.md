@@ -510,3 +510,14 @@
 
 **Link to work:**  [Rails Tutorial: TechMaker TV](https://odogwudozilla.herokuapp.com/)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 45: May 31, 2018 (Rails)
+#####
+
+**Today's Progress**: Started the UI aspect of the MSc Group project.
+
+**Thoughts: A lot of the syntax for Bootstrap became clearer**
+
+**Link to work:**  [Rails Project: ](https://sruc.herokuapp.com/)
+*********************************************************************************
