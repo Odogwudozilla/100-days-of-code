@@ -521,3 +521,14 @@
 
 **Link to work:**  [Rails Project: ](https://sruc.herokuapp.com/)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 46: June 01, 2018 (Rails)
+#####
+
+**Today's Progress**: Started messing around on the blog page, broke it, deleted it and started afresh. The "publish/unpublish" feature just won't work.
+
+**Thoughts: Today I learned the clearest difference between a controller and a model and why you need both, and where**
+
+**Link to work:**  [Rails Project: ](https://odogwudozilla.herokuapp.com/)
+*********************************************************************************
