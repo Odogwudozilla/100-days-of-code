@@ -532,3 +532,14 @@
 
 **Link to work:**  [Rails Project: ](https://odogwudozilla.herokuapp.com/)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 47: June 02, 2018 (Rails)
+#####
+
+**Today's Progress**: Deleted the portofolio app and resumed a new one. So far so good.
+
+**Thoughts: VS code is a really good editor**
+
+**Link to work:**  [Rails Project: ](https://odogwudozilla.herokuapp.com/)
+*********************************************************************************
