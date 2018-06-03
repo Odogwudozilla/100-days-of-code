@@ -543,3 +543,14 @@
 
 **Link to work:**  [Rails Project: ](https://odogwudozilla.herokuapp.com/)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 48: June 03, 2018 (Rails)
+#####
+
+**Today's Progress**: Ran into problems in trying to deploy to Heroku. Issues with Bundler, Gemlock file, and an host of others.
+
+**Thoughts: Learned the hard way why running RoR development on windows is such a bad idea. Problems aftyer problems keep cropping up at every stage of development and production.**
+
+**Link to work:**  [Rails Project: ](https://odogwudozilla.herokuapp.com/)
+*********************************************************************************
