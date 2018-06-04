@@ -554,3 +554,14 @@
 
 **Link to work:**  [Rails Project: ](https://odogwudozilla.herokuapp.com/)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 49: June 04, 2018 (Rails)
+#####
+
+**Today's Progress**: Scaffolding for the group project and UX styling.
+
+**Thoughts: **
+
+**Link to work:**  [Rails GroupProject: ]()
+*********************************************************************************
