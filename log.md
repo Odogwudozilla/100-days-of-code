@@ -565,3 +565,15 @@
 
 **Link to work:**  [Rails GroupProject: ]()
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 50: June 05, 2018 (Rails)
+#####
+
+**Today's Progress**: Group project and Styling the UI part III.
+
+**Thoughts: **
+
+**Link to work:**  [Rails GroupProject: ](https://sruc.herokuapp.com)
+*********************************************************************************
