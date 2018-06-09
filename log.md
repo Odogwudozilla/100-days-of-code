@@ -597,9 +597,21 @@
 ### Day 52: June 08, 2018 (Rails)
 #####
 
-**Today's Progress**: Work on perosnal blog.
+**Today's Progress**: Work on personal blog.
 
 **Thoughts: **
 
-**Link to work:**  [Rails GroupProject: ](https://odogwudozilla.herokuapp.com/)
+**Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
+*********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 53: June 09, 2018 (Rails)
+#####
+
+**Today's Progress**: Work on personal blog.
+
+**Thoughts: **
+
+**Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
 *********************************************************************************
