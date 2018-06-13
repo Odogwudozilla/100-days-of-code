@@ -639,3 +639,15 @@
 
 **Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 56: June 13, 2018 (Rails)
+#####
+
+**Today's Progress**: More of Group project. Implemented the authentication system for the group project. Still a work in progress.
+
+**Thoughts: Devise gem is awesome**
+
+**Link to work:**  [Rails GroupProject: ](https://sruc.herokuapp.com)
+*********************************************************************************
