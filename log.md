@@ -664,3 +664,15 @@ c
 
 **Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 59: June 16, 2018 (Rails)
+#####
+
+**Today's Progress**: Work on personal blog. "Testing and some refactoring"
+
+**Thoughts: **
+
+**Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
+*********************************************************************************
