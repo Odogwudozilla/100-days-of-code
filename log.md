@@ -700,3 +700,15 @@ c
 
 **Link to work:**  [Rails GroupProject: ](https://sruc.herokuapp.com)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 62: June 19, 2018 (Rails)
+#####
+
+**Today's Progress**: More of Group project. Addded the access-levels for the authentication system.
+
+**Thoughts: **
+
+**Link to work:**  [Rails GroupProject: ](https://sruc.herokuapp.com)
+*********************************************************************************
