@@ -688,3 +688,15 @@ c
 
 **Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 61: June 18, 2018 (Rails)
+#####
+
+**Today's Progress**: More of Group project. Built a functional authentication system with Devise and cancancan.
+
+**Thoughts: **
+
+**Link to work:**  [Rails GroupProject: ](https://sruc.herokuapp.com)
+*********************************************************************************
