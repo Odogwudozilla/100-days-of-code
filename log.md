@@ -735,3 +735,15 @@ c
 
 **Link to work:**  [Rails GroupProject: ](https://sruc.herokuapp.com)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 65: June 22, 2018 (Rails)
+#####
+
+**Today's Progress**: Work on personal blog. Ability to publish and unpublish posts
+
+**Thoughts: **
+
+**Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
+*********************************************************************************
