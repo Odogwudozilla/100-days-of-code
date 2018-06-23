@@ -747,3 +747,15 @@ c
 
 **Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 66: June 23, 2018 (Rails)
+#####
+
+**Today's Progress**: Work on personal blog. Commenting vis Disqus
+
+**Thoughts: **
+
+**Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
+*********************************************************************************
