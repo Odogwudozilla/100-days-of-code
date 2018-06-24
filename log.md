@@ -759,3 +759,15 @@ c
 
 **Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 67: June 24, 2018 (Rails)
+#####
+
+**Today's Progress**: Work on personal blog. Categories and Author ID
+
+**Thoughts: **
+
+**Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
+*********************************************************************************
