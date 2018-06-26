@@ -782,3 +782,14 @@ c
 
 **Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 69: June 26, 2018 (Rails)
+#####
+
+**Today's Progress**: Work on personal blog. Finally got Omniauth via Facebook and Github to work
+
+**Thoughts: **
+
+**Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
+*********************************************************************************
