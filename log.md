@@ -771,3 +771,14 @@ c
 
 **Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 68: June 25, 2018 (Rails)
+#####
+
+**Today's Progress**: Work on personal blog. Tried to implement the gloabal autocomplete search (for the second time) to no avail.
+
+**Thoughts: **
+
+**Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
+*********************************************************************************
