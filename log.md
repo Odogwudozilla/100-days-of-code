@@ -805,3 +805,14 @@ c
 
 **Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 71: June 28, 2018 (Rails)
+#####
+
+**Today's Progress**: Work on personal blog. Finishing touches to the static pages
+
+**Thoughts:  **
+
+**Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
+*********************************************************************************
