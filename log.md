@@ -838,3 +838,14 @@ c
 
 **Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 74: July 02, 2018 (Rails)
+#####
+
+**Today's Progress**: More of Group project. Set the forms horizontal
+
+**Thoughts: **
+
+**Link to work:**  [Rails GroupProject: ](https://sruc.herokuapp.com)
+*********************************************************************************
