@@ -832,11 +832,11 @@ c
 ### Day 73: July 01, 2018 (Rails)
 #####
 
-**Today's Progress**: Work on personal blog. Setting up Amazon S3
+**Today's Progress**: Work on personal blog. Setting up Amazon S3. Deployed app live
 
 **Thoughts:  **
 
-**Link to work:**  [Rails: ](https://odogwudozilla.herokuapp.com/)
+**Link to work:**  [Rails: ](http://odogwudozilla.com/)
 *********************************************************************************
 # 100 Days Of Code - Log
 
@@ -872,4 +872,16 @@ c
 **Thoughts: **
 
 **Link to work:**  [Rails GroupProject: ](https://sruc.herokuapp.com)
+*********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 77: July 06, 2018 (Rails)
+#####
+
+**Today's Progress**: Work on personal blog. Finally got the image persistence to work on Amazon S3
+
+**Thoughts:  **
+
+**Link to work:**  [Rails: ](http://odogwudozilla.com/)
 *********************************************************************************
