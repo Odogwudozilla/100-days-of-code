@@ -881,6 +881,17 @@ c
 
 **Today's Progress**: Work on personal blog. Finally got the image persistence to work on Amazon S3
 
+**Thoughts: Found out that traditional hosts won't work well with Ruby, hence Heroku's Platform As A Service (PAAS) **
+
+**Link to work:**  [Rails: ](http://odogwudozilla.com/)
+*********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 78: July 07, 2018 (Rails)
+#####
+
+**Today's Progress**: Work on personal blog. Adding the author bio to posts
+
 **Thoughts:  **
 
 **Link to work:**  [Rails: ](http://odogwudozilla.com/)
