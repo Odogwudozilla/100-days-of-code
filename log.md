@@ -896,3 +896,14 @@ c
 
 **Link to work:**  [Rails: ](http://odogwudozilla.com/)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 79: July 08, 2018 (Rails)
+#####
+
+**Today's Progress**: Work on personal blog. Adding social media share buttons
+
+**Thoughts:  **
+
+**Link to work:**  [Rails: ](http://odogwudozilla.com/)
+*********************************************************************************
