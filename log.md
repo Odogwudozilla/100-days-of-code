@@ -965,3 +965,14 @@ c
 
 **Link to work:**  [Rails: ](http://odogwudozilla.com/)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 85: July 20, 2018 (Rails)
+#####
+
+**Today's Progress**: More of Group project. Public view for bible data and renaming Tullroutine
+
+**Thoughts: **
+
+**Link to work:**  [Rails GroupProject: ](https://sruc.herokuapp.com)
+*********************************************************************************
