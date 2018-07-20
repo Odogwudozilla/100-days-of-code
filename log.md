@@ -907,3 +907,15 @@ c
 
 **Link to work:**  [Rails: ](http://odogwudozilla.com/)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 80: July 09, 2018 (Rails)
+#####
+
+**Today's Progress**: More of Group project. Adding comments to files
+
+**Thoughts: **
+
+**Link to work:**  [Rails GroupProject: ](https://sruc.herokuapp.com)
+*********************************************************************************
