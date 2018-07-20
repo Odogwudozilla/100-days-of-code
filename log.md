@@ -953,3 +953,15 @@ c
 
 **Link to work:**  [Rails GroupProject: ](https://sruc.herokuapp.com)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 84: July 19, 2018 (Rails)
+#####
+
+**Today's Progress**: Work on personal blog. Editing the homepage and setting the meta tags
+
+**Thoughts:  **
+
+**Link to work:**  [Rails: ](http://odogwudozilla.com/)
+*********************************************************************************
