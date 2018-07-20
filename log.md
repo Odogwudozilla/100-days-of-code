@@ -919,3 +919,14 @@ c
 
 **Link to work:**  [Rails GroupProject: ](https://sruc.herokuapp.com)
 *********************************************************************************
+# 100 Days Of Code - Log
+
+### Day 81: July 10, 2018 (Rails)
+#####
+
+**Today's Progress**: More of Group project. changing mm plot labels and removing authentication for public view
+
+**Thoughts: **
+
+**Link to work:**  [Rails GroupProject: ](https://sruc.herokuapp.com)
+*********************************************************************************
