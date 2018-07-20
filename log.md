@@ -930,3 +930,15 @@ c
 
 **Link to work:**  [Rails GroupProject: ](https://sruc.herokuapp.com)
 *********************************************************************************
+
+# 100 Days Of Code - Log
+
+### Day 82: July 16, 2018 (Rails)
+#####
+
+**Today's Progress**: More of Group project. Modifying index and adding default role to admins
+
+**Thoughts: **
+
+**Link to work:**  [Rails GroupProject: ](https://sruc.herokuapp.com)
+*********************************************************************************
