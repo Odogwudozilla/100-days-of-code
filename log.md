@@ -1217,3 +1217,16 @@ c
 **Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
 
 ---
+# 100 Days Of Code - Log
+
+### Day 88: July 23, 2018 (Rails)
+
+#####
+
+**Today's Progress**: Work on personal blog. Fixing the gitignore and application.yml for AWS S3
+
+**Thoughts: **
+
+**Link to work:** [Rails: ](http://odogwudozilla.com/)
+
+---
