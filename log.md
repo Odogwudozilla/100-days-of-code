@@ -1217,6 +1217,7 @@ c
 **Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
 
 ---
+
 # 100 Days Of Code - Log
 
 ### Day 88: July 23, 2018 (Rails)
@@ -1228,5 +1229,19 @@ c
 **Thoughts: **
 
 **Link to work:** [Rails: ](http://odogwudozilla.com/)
+
+---
+
+# 100 Days Of Code - Log
+
+### Day 89: July 30, 2018 (Rails)
+
+#####
+
+**Today's Progress**: More of Group project. Set the user authorisation for roles and modified view files and restricitng access to admin dashboard
+
+**Thoughts: **
+
+**Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
 
 ---
