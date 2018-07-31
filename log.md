@@ -1245,3 +1245,16 @@ c
 **Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
 
 ---
+# 100 Days Of Code - Log
+
+### Day 90: July 31, 2018 (Rails)
+
+#####
+
+**Today's Progress**: More of Group project. Session timeout for logged in users
+
+**Thoughts: **
+
+**Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
+
+---
