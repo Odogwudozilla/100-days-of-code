@@ -1271,3 +1271,18 @@ c
 **Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
 
 ---
+
+# 100 Days Of Code - Log
+
+### Day 92: August 03, 2018 (Rails)
+
+#####
+
+**Today's Progress**: More of Group project. General refactoring and CSV import in all models
+
+
+**Thoughts: **
+
+**Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
+
+---
