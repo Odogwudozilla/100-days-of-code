@@ -1301,3 +1301,18 @@ c
 **Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
 
 ---
+
+# 100 Days Of Code - Log
+
+### Day 94: August 05, 2018 (Rails)
+
+#####
+
+**Today's Progress**: More of Group project. fixing the search query again finally
+
+
+**Thoughts: **
+
+**Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
+
+---
