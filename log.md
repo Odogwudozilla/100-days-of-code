@@ -1316,3 +1316,18 @@ c
 **Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
 
 ---
+
+# 100 Days Of Code - Log
+
+### Day 95: August 06, 2018 (Rails)
+
+#####
+
+**Today's Progress**: More of Group project. Adding the readmore js feature plus fixing will_paginate conflict with rails_admin
+
+
+**Thoughts: **
+
+**Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
+
+---
