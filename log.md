@@ -1331,3 +1331,18 @@ c
 **Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
 
 ---
+
+# 100 Days Of Code - Log
+
+### Day 96: August 07, 2018 (Rails)
+
+#####
+
+**Today's Progress**: More of Group project. remove authentication for public view on Tulloch, Oats_grain and Wheat_grain. Adding links to home card images plus hove
+
+
+**Thoughts: **
+
+**Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
+
+---
