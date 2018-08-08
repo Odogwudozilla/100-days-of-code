@@ -1346,3 +1346,18 @@ c
 **Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
 
 ---
+
+# 100 Days Of Code - Log
+
+### Day 97: August 08, 2018 (Rails)
+
+#####
+
+**Today's Progress**: More of Group project. Responsive homeshow plus mobile viewport
+
+
+**Thoughts: **
+
+**Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
+
+---
