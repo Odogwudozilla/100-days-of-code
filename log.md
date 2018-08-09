@@ -1361,3 +1361,16 @@ c
 **Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
 
 ---
+# 100 Days Of Code - Log
+
+### Day 98: August 09, 2018 (Rails)
+
+#####
+
+**Today's Progress**: More of Group project. Commenting and more refactoring
+
+**Thoughts: at the tail end of the project**
+
+**Link to work:** [Rails GroupProject: ](https://sruc.herokuapp.com)
+
+---
